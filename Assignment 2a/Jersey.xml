@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:svg="http://www.w3.org/2000/svg"
+         xmlns:m="http://www.w3.org/1998/Math/MathML"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:db="http://docbook.org/ns/docbook">
+  <description>
+    <name>b-tu football jersey</name>
+
+    <title>Jersey</title>
+
+    <brand>Nike</brand>
+
+    <color>Blue</color>
+
+    <condition>new</condition>
+
+    <gender>male</gender>
+
+    <gender>female</gender>
+
+    <id>b-tu-jes01</id>
+
+    <material>cotton</material>
+  </description>
+
+  <price currency="€">
+    <regular>30.0</regular>
+
+    <discount_price currency="€">25.0</discount_price>
+
+    <discount>yes</discount>
+  </price>
+
+  <shipping>
+    <country>Germany</country>
+
+    <cost currency="€">3.0</cost>
+
+    <region>EU</region>
+
+    <service>Ground</service>
+
+    <shipping_weight unit="oz">1.3</shipping_weight>
+  </shipping>
+
+  <size>Medium</size>
+
+  <size>Large</size>
+
+  <size_system>EU</size_system>
+
+  <tax>
+    <country>EU</country>
+
+    <rate>10</rate>
+
+    <region>EU</region>
+
+    <ship>True</ship>
+  </tax>
+</product>
