@@ -28,53 +28,94 @@ Why the need for a website?
 •	To reach out to potential donors/sponsors and new members.
 
 Web pages
+
 •	Home
+
 Title: Brandenburg University of Technology, b-tu Amalgamated Sports Club Homepage
+
 Colours: main{9CE6F4} complementary{add any fitting complementary colour} add a touch of white and grey.
+
 Font: Font-family {Sans serif, Helvetica, Arial, Verdana}
+
 Layout: Adaptive and should contain some CSS grids.
+
 •	News
+
 Title: B-tu Sports News
+
 Colours: main{Grey} complementary{add any fitting complementary colour}.
+
 Font: Font-family {Sans serif, Helvetica, Arial, Verdana
+
 •	Shop
 1.	Tickets
 2.	Paraphernalia
+
 Title: B-tu Sports Shop
+
 Colours: main{aqua} complementary{add any fitting complementary colour}.
+
 Font: Font-family {Sans serif, Helvetica, Arial, Verdana
+
 •	Clubs
 1.	Football
 2.	Basketball
 3.	Tennis
 4.	Swimming
 5.	Weight-lifting
+
 Title: B-tu Sporting Clubs
+
 Colours: main{aqua} complementary{add any fitting complementary colour}.
+
 Font: Font-family {Sans serif, Helvetica, Arial, Verdana
+
 •	Season
+
 Title: B-tu Sports Season
+
 Colours: main{Green} complementary{add any fitting complementary colour}.
+
 Font: Font-family {Sans serif, Helvetica, Arial, Verdana
+
 •	Fan Zone
+
 Title: B-tu Sports FanZone
+
 Colours: main{aqua} complementary{white}.
+
 Font: Font-family {Sans serif, Helvetica, Arial, Verdana
+
 •	About
+
 Title: About B-tu Sports Club
+
 Colours: main{White} complementary{Grey}.
+
 Font: Font-family {Sans serif, Helvetica, Arial, Verdana
+
 •	Achievements & Trophies
+
 Title: B-tu Sports Club Achievements & Trophies
+
 Colours: main{Grey} complementary{add any fitting complementary colour}.
+
 Font: Font-family {Sans serif, Helvetica, Arial, Verdana
+
 •	Sponsors & Partners
+
 Title: B-tu Sports Club Sponsors & Partners
+
 Colours: main{Blue} complementary{White}.
+
 Font: Font-family {Sans serif, Helvetica, Arial, Verdana
+
 •	Gallery
+
 Title: B-tu Sports Gallery
+
 Colours: main{aqua} complementary{white}.
+
 Font: Font-family {Sans serif, Helvetica, Arial, Verdana
 
 Please find attached, a sample layout, SVG image and some Videos.
