@@ -1,0 +1,15 @@
+Product
+Attribute: name , id , brand , color, size , gender , Price, material, condition
+
+
+Shipping 
+Attribute: country , Address, region, service , shipping_weight.  
+
+Club 
+Attribute: name , id , registration date , description , logo.
+
+Member
+Attribute : name , id , Birthday , club , Address, gender.
+
+Supporting event 
+Attribute : name , id , date , location , club , price. 
