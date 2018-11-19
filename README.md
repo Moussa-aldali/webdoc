@@ -1,4 +1,3 @@
-Assignment 2a
 Our organization is the Amalgamated Sports Club of the Brandenburg University of Technology. It is the mother sporting organization to merge the mini sporting clubs in the university namely: football, basketball, tennis, swimming and weight-lifting.
 
 Company name – Amalgamated Sports Club of b-tu.
